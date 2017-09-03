@@ -1,0 +1,19 @@
+baseURL = "https://www.zhikang.life/"
+languageCode = "zh"
+title = "I'mPossible"
+disqusShortname = "zhikangx"
+
+theme = "hugo-tracks-theme"
+
+[params]
+    style = "default"
+    description = "Personal site of Kyle."
+    copyright = "&copy;2017 Zhikang Xu"
+    
+    [params.social]
+        facebook = "https://www.facebook.com/profile.php?id=100013176913311"
+        instagram = "https://www.instagram.com/kyle_xu_k/"
+        email = "kyle.zhikang@gmail.com"
+        linkedin = "https://www.linkedin.com/in/zhikang-xu/"
+        github = "https://github.com/zhikangx"
+        changba = "http://changba.com/u/177564837"
