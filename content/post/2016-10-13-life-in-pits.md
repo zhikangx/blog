@@ -2,7 +2,7 @@
 
 showonlyimage : true
 draft: false
-image: "images/001-01.png"
+image: "images/001-1.png"
 date: "2016-10-13"
 title: "初来匹兹堡"
 categories: "杂谈"
