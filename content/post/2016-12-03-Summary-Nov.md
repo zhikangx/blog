@@ -2,7 +2,7 @@
 showonlyimage : true
 draft: false
 image: "images/Novtimecover.png"
-date: "2016-12-02"
+date: "2016-12-03"
 title: "十一月小结"
 categories: "时间管理"
 weight: 0
