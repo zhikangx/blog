@@ -1,7 +1,7 @@
 ---
 showonlyimage : true
 draft: false
-image: "images/002-02.png"
+image: "images/notecover.png"
 date: "2016-11-08"
 title: "浅谈无纸化学习"
 categories: "生产力"
@@ -55,15 +55,10 @@ weight: 0
 笔记量相对较小的课程，使用PDF Expert进行记录，笔记量较大的课程交给GoodNotes，来回导一下，然后删掉Drive上的旧文件，其实工作量也不大，耗费了几十秒，同时可直接使用Drive进行文件管理。
 
 ### 附录1：GoodNotes实图
-
-![note1]({{ site.baseurl }}/images/note_1.png)
-<br />
-![note2]({{ site.baseurl }}/images/note_2.png)
-<br />
-![note3]({{ site.baseurl }}/images/note_3.png)
+{{< figure src="/images/note_1.png" caption="By Kyle." >}}
+{{< figure src="/images/note_2.png" caption="By Kyle." >}}
+{{< figure src="/images/note_3.png" caption="By Kyle." >}}
 
 ### 附录2：PDF Expert实图
-
-![note4]({{ site.baseurl }}/images/note_4.png)
-<br />
-![note5]({{ site.baseurl }}/images/note_5.png)
+{{< figure src="/images/note_4.png" caption="By Kyle." >}}
+{{< figure src="/images/note_5.png" caption="By Kyle." >}}
