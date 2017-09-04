@@ -1,7 +1,7 @@
 ---
 showonlyimage : true
 draft: false
-image: "images/002-02.png"
+image: "images/Novtimecover.png"
 date: "2016-12-02"
 title: "十一月小结"
 categories: "时间管理"
@@ -25,11 +25,10 @@ weight: 0
 - 参加了Clean Tech的比赛，自己平时关注的很多新知识、新产品、新想法派上了一些用处。深感美国的高科技市场非常具有梦想和情怀，想做就做的产品数不胜数。
 - 感谢给我传授诸多领域前沿知识的朋友。
 - 不虚此行。
+{{< figure src="/images/Novtime-1.png" caption="By Kyle." >}}
 
-![Novtime1]({{ site.baseurl }}/images/Novtime-1.png)
+{{< figure src="/images/Novtime-2.png" caption="By Kyle." >}}
 
-
-![Novtime2]({{ site.baseurl }}/images/Novtime-2.png)
 
 ## 次月安排
 - 12月16号前主要是准备期末考试，整理并完善这学期学习的知识。

@@ -20,10 +20,7 @@ weight: 0
 - 新篇章：Ulysses端利用碎片化时间完成初步写作，Octopage上直接粘贴修改发布，电脑上进行处理，完成配图，修缮格式。
 
 - 旧文更新：Octopage上直接修改发布。
-
-<br />
-![Octpage]({{ site.baseurl }}/images/Octpage.png)
-<br />
+{{< figure src="/images/Octpage.png" caption="By Kyle." >}}
 
 #### Macbook Pro
 - VS Code完成写作，GitHub Desktop发布。
@@ -33,25 +30,16 @@ weight: 0
 - 以上步骤通过Workflow自动完成。
 - 不使用drive的原因：workflow中 save to drive 这一步骤不支持，可通过 open in app，选择 drive 操作完成，但每次只能保存一张图片；drive更多保存学习工作资料，dropbox作为图床实现了功能的分区，也可以省空间。
 - 在MBP上下载drive和drop box这两个客户端，并巧用自带的tags会大大提升工作效率。
+{{< figure src="/images/makephotoworkflow.png" caption="By Kyle." >}}
 
-<br />
-![make photo workflow]({{ site.baseurl }}/images/makephotoworkflow.png)
-<br />
+{{< figure src="/images/makegifworkflow.png" caption="By Kyle." >}}
 
-<br />
-![make gif workflow]({{ site.baseurl }}/images/makegifworkflow.png)
-<br />
-
-<br />
-![finderlayout]({{ site.baseurl }}/images/finderlayout.png)
-<br />
-
+{{< figure src="/images/finderlayout.png" caption="By Kyle." >}}
+m
 ### 文字引用
     网页上直接执行Draft，自动生成支持Markdown格式的引用并存储在Draft中。
 
-<br />
-![make reference gif]({{ site.baseurl }}/images/makereference.gif)
-<br />
+{{< figure src="/images/makereference.gif" caption="By Kyle." >}}
 
 ## 流媒体阅读
 
