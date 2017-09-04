@@ -1,7 +1,7 @@
 ---
 showonlyimage : true
 draft: false
-image: "images/002-02.png"
+image: "images/Effcover.jpg"
 date: "2016-11-19"
 title: "生产力系统"
 categories: "生产力"

@@ -1,7 +1,7 @@
 ---
 showonlyimage : true
 draft: false
-image: "images/002-02.png"
+image: "images/littlewordscover.png"
 date: "2016-11-01"
 title: "只字片语"
 categories: "杂谈"
